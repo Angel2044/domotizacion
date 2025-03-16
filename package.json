@@ -1,0 +1,30 @@
+{
+  "name": "domotizacion",
+  "version": "0.1.0",
+  "description": "- Configuración de escenarios: Se tratara de aquellas configuraciones de acciones o conjunto de acciones en un momento del día.\r - Panel de monitorización: Sera un panel desde el que podre observar el consumo energético de la casa, para detectar así posibles incidencias.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aannggell/domotizacion.git"
+  },
+  "keywords": [
+    "domotizacion",
+    "arduino",
+    "react",
+    "native",
+    "node.js"
+  ],
+  "author": "Angel Durantez Garcia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aannggell/domotizacion/issues"
+  },
+  "homepage": "https://github.com/aannggell/domotizacion#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "mysql2": "^3.12.0"
+  }
+}
